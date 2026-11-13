@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1794493504 source:d:\tugas besar strukdat kelompok 1\tubesmll_kelompok1_sistemperusahaan\departemen.cpp
+	"departemen.h"
+
+1794492997 d:\tugas besar strukdat kelompok 1\tubesmll_kelompok1_sistemperusahaan\departemen.h
+	<iostream>
+	<string>
+	<iomanip>
+
+1794493081 source:d:\tugas besar strukdat kelompok 1\tubesmll_kelompok1_sistemperusahaan\main.cpp
+	"departemen.h"
+
